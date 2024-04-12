@@ -16,7 +16,7 @@ Projeto que gera fichas de RPG de mesa de forma dinamica!
 <br>
 
 ## 🚀 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto será desenvolvido com as seguintes tecnologias:
 - [HTML5](https://html.com/)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Typecript](https://www.typescriptlang.org)
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <br>
 
 ## 📖 Descrição
-Este projeto é um sistema web desenvolvido para facilitar a criação de fichas de personagens para jogos de RPG de mesa. O sistema permite gerar fichas de forma dinâmica, preenchendo informações relevantes sobre o personagem, como atributos, habilidades, equipamentos e entre outros fatores. Vale ressaltar que esse projeto é para gerar fichas de um RPG de mesa de tipo fantasia, com sua ênfase na narrativa e na exploração de temas como poder, ética e a natureza da realidade. Desenvolvido em conjunto com outros colaboradores, ainda não está acessível ao público seus conteúdos e storylleter.
+Este projeto será um sistema web responsivo para facilitar a criação de fichas de personagens para jogos de RPG de mesa. O sistema permite gerar fichas de forma dinâmica, preenchendo informações relevantes sobre o personagem, como atributos, habilidades, equipamentos e entre outros fatores. Vale ressaltar que esse projeto é para gerar fichas de um RPG de mesa de tipo fantasia, com sua ênfase na narrativa e na exploração de temas como poder, ética e a natureza da realidade. Desenvolvido em conjunto com outros colaboradores, ainda não está acessível ao público seus conteúdos e storylleter.
 <br>
 <br>
 
@@ -55,10 +55,10 @@ Essas são as funcionalides principais desse projeto:
 <p align="center">
   <img alt="Preview do projeto desenvolvido." src="./assets/img/development.jpg" width="80%">
 </p>
-<p align="center">
+<!-- <p align="center">
 Veja o projeto funcionando <a href="./development.html
 " target="_blank">aqui</a>. 👈
-<br>
+<br> -->
 
 ## 😉 Obrigado por visitar meu projeto
 <p>Você pode conferir outros projetos que desenvolvi aqui no meu GitHub, ou entrar em contato comigo pelos demais links.</p>
